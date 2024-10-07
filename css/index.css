@@ -1,0 +1,35 @@
+.tabContainer {
+    max-width: 500px;
+    background-color: #f4f4f4;
+    margin: 0 auto;
+}
+.tab {
+    display: inline-block;
+    padding: 15px 25px;
+    width: 75px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: arial, helvetica;
+    cursor: pointer;
+}
+.tabBar {
+    background-color: #999999;
+}
+.tab1 {
+}
+.tab2 {
+}
+.active {
+    background-color: #0092ff;
+}
+#tabContent1 {
+}
+#tabContent2 {
+    display: none;
+}
+.grid {
+}
+.listItem {
+    padding: 18px;
+}
